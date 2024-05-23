@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1>Hola, Soy Juan! <br/><a href="https://github.com/juanemiliomateo">Programador</a>, <a href="https://www.linkedin.com/in/juanemiliomateo/">Profesional de Ciberseguridad</a>, <a href="https://www.youtube.com/c/juanemiliomateo">YouTuber</a></h1>
 
-<!--
-**juanemiliomateo/juanemiliomateo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>⭐ Acerca de mi:</h2>
 
-Here are some ideas to get you started:
+- 💻 Entusiasta de la programación y la ciberseguridad.
+- 👨‍🎓 Técnico superior en Seguridad de la Información y computación forense.
+- 😁 Me divierto haciendo cosas que aun no se hacer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>👨‍💻 Projectos de Software:</h2>
+
+- <b>Full Stack Web App</b>
+  - [Uno de mis proyectos Web](https://github.com/juanemiliomateo/)
+- <b>PowerShell</b>
+  - [Algo hecho en Powershell](https://github.com/juanemiliomateo/)
+- <b>Python</b>
+  - [Algo hecho en Python](https://github.com/juanemiliomateo/)
+
+<h2>📺 Videos Populares de YouTube</h2>
+
+- <b>Listas de reproducción</b>
+  - [Administrando CentOS 7 Server](https://www.youtube.com/playlist?list=PLKwSgKGxI_l9myMnd83gzik3IYiXdaN7f)
+
+<h2> 🤳 Conecta conmigo:</h2>
+
+[<img align="left" alt="juanemiliomateo | YouTube" width="22px" src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" />][youtube]
+[<img align="left" alt="juanemiliomateo | LinkedIn" width="22px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />][linkedin]
+
+[youtube]: https://www.youtube.com/c/juanemiliomateo
+[linkedin]: https://linkedin.com/in/juanemiliomateo
