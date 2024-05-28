@@ -22,8 +22,7 @@
 
 <h2> 🤳 Conecta conmigo:</h2>
 
-[<img align="left" alt="juanemiliomateo | YouTube" width="22px" src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" />][youtube]
-[<img align="left" alt="juanemiliomateo | LinkedIn" width="22px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />][linkedin]
+[<img src="https://img.shields.io/badge/-Youtube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" />][Youtube]
 [<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 [youtube]: https://www.youtube.com/c/juanemiliomateo
