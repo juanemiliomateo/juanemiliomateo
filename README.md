@@ -1,7 +1,9 @@
 <h1>Hola, Soy Juan! <br/><a href="https://github.com/juanemiliomateo">Programador</a>, <a href="https://www.linkedin.com/in/juanemiliomateo/">Profesional de Ciberseguridad</a>, <a href="https://www.youtube.com/c/juanemiliomateo">YouTuber</a></h1>
 
 <img src="https://img.shields.io/badge/-CC-006400?&style=for-the-badge&logo=ISC2&logoColor=white" />
+
 <img src="https://img.shields.io/badge/-ITF%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
 <img src="https://img.shields.io/badge/-NSE-DB291D?&style=for-the-badge&logo=Fortinet&logoColor=white" />
 
 
