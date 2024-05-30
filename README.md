@@ -1,4 +1,4 @@
-<h1>Hola, Soy Juan! <br/><a href="https://github.com/juanemiliomateo">Programador</a>, <a href="https://www.linkedin.com/in/juanemiliomateo/">Profesional de Ciberseguridad</a>, <a href="https://www.youtube.com/c/juanemiliomateo">YouTuber</a></h1>
+<h1>Hola, Soy Juan! <br/><img src="https://img.shields.io/youtube/channel/views/UCCHzyYPW5fJC61xxdzc5pxA" /><a href="https://github.com/juanemiliomateo">Programador</a>, <a href="https://www.linkedin.com/in/juanemiliomateo/">Profesional de Ciberseguridad</a>, <a href="https://www.youtube.com/c/juanemiliomateo">YouTuber</a></h1>
 
 
 <h2>🏆 Certificaciones:</h2>
