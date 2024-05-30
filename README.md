@@ -37,7 +37,7 @@
 <h2> 🤳 Conecta conmigo:</h2>
 
 
-[<img src="https://img.shields.io/badge/-Youtube-Red?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
+[<img src="https://img.shields.io/badge/-Youtube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
 [<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 [youtube]: https://www.youtube.com/c/juanemiliomateo
