@@ -2,7 +2,7 @@
 
 <h2>🏆 Certificaciones:</h2>
 
-<img src="https://img.shields.io/badge/-CC-006400?&style=for-the-badge&logo=ISC2&logoColor=white" /> <img src="https://img.shields.io/badge/-ITF%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> <img src="https://img.shields.io/badge/-NSE%203-DB291D?&style=for-the-badge&logo=Fortinet&logoColor=white" /> <img src="https://img.shields.io/badge/-HCIA%20R&S-DB291D?&style=for-the-badge&logo=huawei&logoColor=white" />
+<img src="https://img.shields.io/badge/-CC-006400?&style=for-the-badge&logo=ISC2&logoColor=white" /> <img src="https://img.shields.io/badge/-ITF%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> <img src="https://img.shields.io/badge/-NSE%203-DB291D?&style=for-the-badge&logo=Fortinet&logoColor=white" /> <img src="https://img.shields.io/badge/-HCIA%20R&S-DB291D?&style=for-the-badge&logo=huawei&logoColor=white" /> <img src="[https://img.shields.io/badge/-HCIA%20R&S-DB291D?&style=for-the-badge&logo=huawei&logoColor=white](https://img.shields.io/badge/-MTA%20x3-blue?&style=for-the-badge&logo=microsoft&)" /> <img src="https://img.shields.io/badge/-MTA%20x3-DB291D?&style=for-the-badge&logo=microsoft" />
 
 
 <h2>⭐ Acerca de mi:</h2>
