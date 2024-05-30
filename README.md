@@ -16,7 +16,7 @@
 - 👨‍🎓 Técnico superior en Seguridad de la Información y computación forense.
 - 😁 Me divierto haciendo cosas que aun no se hacer.
 
-<h2>👨‍💻 Projectos de Software:</h2>
+<h2>👨‍💻 Proyectos de Software:</h2>
 
 - <b>Full Stack Web App</b>
   - [Uno de mis proyectos Web](https://github.com/juanemiliomateo/)
