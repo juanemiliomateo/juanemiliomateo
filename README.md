@@ -12,8 +12,8 @@
 
 <h2>⭐ Acerca de mi:</h2>
 
-- 💻 Entusiasta de la programación y la ciberseguridad.
-- 👨‍🎓 Técnico superior en Seguridad de la Información y computación forense.
+- 💻 Entusiasta de la programación y la Ciberseguridad.
+- 👨‍🎓 Técnico superior en Seguridad de la Información y Computación Forense.
 - 😁 Me divierto haciendo cosas que aun no se hacer.
 
 <h2>👨‍💻 Proyectos de Software:</h2>
