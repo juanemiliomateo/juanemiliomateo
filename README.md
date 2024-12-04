@@ -1,4 +1,4 @@
-<h1>Hola, Soy Juan! <img src="https://img.shields.io/youtube/channel/views/UCCHzyYPW5fJC61xxdzc5pxA" /> <br/> <a href="https://github.com/juanemiliomateo">Programador</a>, <a href="https://www.linkedin.com/in/juanemiliomateo/">Profesional de Ciberseguridad</a>, <a href="https://www.youtube.com/c/juanemiliomateo">Youtuber</a> </h1>
+<h1>Hola, Soy Juan! <img src="https://img.shields.io/youtube/channel/views/UCCHzyYPW5fJC61xxdzc5pxA" />
 
 [<img src="https://img.shields.io/badge/-Youtube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
 [<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
