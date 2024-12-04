@@ -7,7 +7,7 @@
 [linkedin]: https://linkedin.com/in/juanemiliomateo
 
 
-<h2>⭐ Acerca de mi:</h2>
+<h3>⭐ Acerca de mi:</h3>
 
 - 💻 Entusiasta de la programación y la Ciberseguridad.
 - 👨‍🎓 Técnico superior en Seguridad de la Información y Computación Forense.
@@ -15,7 +15,7 @@
 
 ###
 
-<h2>📺 Videos Populares de YouTube</h2>
+<h3>📺 Videos Populares de YouTube</h3>
 
 - <b>Listas de reproducción</b>
   - [Administrando CentOS 7 Server](https://www.youtube.com/playlist?list=PLKwSgKGxI_l9myMnd83gzik3IYiXdaN7f)
