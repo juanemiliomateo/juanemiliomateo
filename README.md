@@ -13,24 +13,6 @@
 - 👨‍🎓 Técnico superior en Seguridad de la Información y Computación Forense.
 - 😁 Me divierto haciendo cosas que aun no se hacer.
 
-<h3 align="left">🛠 Herramientas</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=regex" height="40" alt="regex logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=workers" height="40" alt="workers logo"  />
-</div>
-
 ###
 
 <h2>📺 Videos Populares de YouTube</h2>
