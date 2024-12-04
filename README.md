@@ -45,7 +45,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanemiliomateo&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=es&hide_border=true&order=1" height="130" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=juanemiliomateo&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=es&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juanemiliomateo&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=github_dark&hide_border=true&order=2" height="125" alt="languages graph"  />
 </div>
 
