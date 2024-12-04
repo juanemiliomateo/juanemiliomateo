@@ -1,4 +1,4 @@
-<h1>Hola, Soy Juan!
+<h1>Hola, Soy Juan 👋!
 
 [<img src="https://img.shields.io/youtube/channel/views/UCCHzyYPW5fJC61xxdzc5pxA" />][youtube]
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-juanemiliomateo-blue?style=flat-square&logo=Linkedin&logoColor=white)][linkedin]
