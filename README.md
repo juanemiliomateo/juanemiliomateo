@@ -1,14 +1,11 @@
 <h1>Hola, Soy Juan! <img src="https://img.shields.io/youtube/channel/views/UCCHzyYPW5fJC61xxdzc5pxA" /> <br/> <a href="https://github.com/juanemiliomateo">Programador</a>, <a href="https://www.linkedin.com/in/juanemiliomateo/">Profesional de Ciberseguridad</a>, <a href="https://www.youtube.com/c/juanemiliomateo">Youtuber</a> </h1>
 
-<div>
-  <img src="https://img.shields.io/badge/-CC-006400?&style=for-the-badge&logo=ISC2&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-ITF%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NSE%203-DB291D?&style=for-the-badge&logo=Fortinet&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HCIA%20R&S-DB291D?&style=for-the-badge&logo=huawei&logoColor=white" />
-  <img src="[https://img.shields.io/badge/-HCIA%20R&S-DB291D?&style=for-the-badge&logo=huawei&logoColor=white](https://img.shields.io/badge/-MTA%20x3-blue?&style=for-the-badge&logo=microsoft&)" />
-  <img src="https://img.shields.io/badge/-MTA%20x3-blue?&style=for-the-badge&logo=microsoft" />
-  <img src="https://img.shields.io/badge/-Trustee-white?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAw1BMVEX////4/f/m9v215fpx0vZizfWT2/jX7/tyzvPU7/vz9/t+0vSt3vWAzO9vx+6h1O+Iy+34/P6w2vJ9xurH4vNwvOXg8Pno8fiIxumczet9vOKz1u12ueLM4PBusNtPodW+2Oyew+JtqdaGttuzz+iXwOGOs9d7rNaqx+Kdu9vV4u+ww92nvNnw8vectNXn6PDG0eRwkcGJpMtkib2drMy+yN6xutR9l8NJa6l2ibiWnsKiqshgcqpseKt2gbCLk7pdZqDZMg7mAAABFElEQVR4AYxNgwHAQBCrbbt97r9hbZ+ZMP+F5Z53vCBK7P1KVlSNZ3XjZqWZ/ZTrXbXk88523D5y3lB7vrZfBWE05tgbk5ukG2IWzFWcz0VUlHOVVnMVVXUzXxXLPXAbGPdgCMS4hNFQkRUW9PyE4q5xuUaQGAYCINixs4ucHoNJLKPg/586WubtRFAzHwXlJzz93kq2fRVA9QX/SPkOR1jWQNkA7Re76FpA7LADqI5RKt2tUCqzRvuPrjUOKiOLplWe/gAHu3q5cdBwgH6ctigAxjXOD9UiQQQPYnFwgHFeL4U0sS6ySmSxua2naINn0xzaA5xCwa4iTjt0ueIwkd0KRfac5rNoZ1LifCnkILiUkNzdD4MKIb4gAyM4AAAAAElFTkSuQmCC" />
-</div>
+[<img src="https://img.shields.io/badge/-Youtube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
+[<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+
+[youtube]: https://www.youtube.com/c/juanemiliomateo
+[linkedin]: https://linkedin.com/in/juanemiliomateo
+
 
 <h2>⭐ Acerca de mi:</h2>
 
@@ -16,25 +13,42 @@
 - 👨‍🎓 Técnico superior en Seguridad de la Información y Computación Forense.
 - 😁 Me divierto haciendo cosas que aun no se hacer.
 
-<h2>👨‍💻 Proyectos de Software:</h2>
+<h3 align="left">🛠 Herramientas</h3>
 
-- <b>Full Stack Web App</b>
-  - [Uno de mis proyectos Web](https://github.com/juanemiliomateo/)
-- <b>PowerShell</b>
-  - [Algo hecho en Powershell](https://github.com/juanemiliomateo/)
-- <b>Python</b>
-  - [Algo hecho en Python](https://github.com/juanemiliomateo/)
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=regex" height="40" alt="regex logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=workers" height="40" alt="workers logo"  />
+</div>
+
+###
 
 <h2>📺 Videos Populares de YouTube</h2>
 
 - <b>Listas de reproducción</b>
   - [Administrando CentOS 7 Server](https://www.youtube.com/playlist?list=PLKwSgKGxI_l9myMnd83gzik3IYiXdaN7f)
 
-<h2> 🤳 Conecta conmigo:</h2>
+<h3 align="left">🔥   Mis estadisticas :</h3>
 
+###
 
-[<img src="https://img.shields.io/badge/-Youtube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
-[<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juanemiliomateo&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=es&hide_border=true&order=1" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juanemiliomateo&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
 
-[youtube]: https://www.youtube.com/c/juanemiliomateo
-[linkedin]: https://linkedin.com/in/juanemiliomateo
+###
+
+<img src="https://raw.githubusercontent.com/juanemiliomateo/juanemiliomateo/output/snake.svg" alt="Snake animation" />
+
+###
