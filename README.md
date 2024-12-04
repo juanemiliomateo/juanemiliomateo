@@ -1,9 +1,9 @@
-<h1>Hola, Soy Juan! <img src="https://img.shields.io/youtube/channel/views/UCCHzyYPW5fJC61xxdzc5pxA" />
+<h1>Hola, Soy Juan!
 
-[<img src="https://img.shields.io/badge/-Youtube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
-[<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img src="https://img.shields.io/youtube/channel/views/UCCHzyYPW5fJC61xxdzc5pxA" />][youtube]
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-juanemiliomateo-blue?style=flat-square&logo=Linkedin&logoColor=white)][linkedin]
 
-[youtube]: https://www.youtube.com/c/juanemiliomateo
+[youtube]: https://www.youtube.com/@juanemiliomateo
 [linkedin]: https://linkedin.com/in/juanemiliomateo
 
 
@@ -38,12 +38,32 @@
 - <b>Listas de reproducción</b>
   - [Administrando CentOS 7 Server](https://www.youtube.com/playlist?list=PLKwSgKGxI_l9myMnd83gzik3IYiXdaN7f)
 
+<h3 align="left">🛠 Herramientas</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=regex" height="40" alt="regex logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=workers" height="40" alt="workers logo"  />
+</div>
+
+###
+
 <h3 align="left">🔥   Mis estadisticas :</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanemiliomateo&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=es&hide_border=true&order=1" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=juanemiliomateo&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=es&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juanemiliomateo&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
