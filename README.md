@@ -2,6 +2,7 @@
 
 [<img src="https://img.shields.io/youtube/channel/views/UCCHzyYPW5fJC61xxdzc5pxA" />][youtube]
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-juanemiliomateo-blue?style=flat-square&logo=Linkedin&logoColor=white)][linkedin]
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/juanemiliomateo/juanemiliomateo/blob/master/README.es.md)
 
 [youtube]: https://www.youtube.com/@juanemiliomateo
 [linkedin]: https://linkedin.com/in/juanemiliomateo
