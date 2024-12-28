@@ -1,7 +1,8 @@
 <h1>Hi, I'm Juan 👋!
 
 [<img src="https://img.shields.io/youtube/channel/views/UCCHzyYPW5fJC61xxdzc5pxA" />][youtube]
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-juanemiliomateo-blue?style=flat-square&logo=Linkedin&logoColor=white)][linkedin]
+[![Linkedin: juanemiliomateo](https://img.shields.io/badge/-juanemiliomateo-blue?style=flat-square&logo=Linkedin&logoColor=white)][linkedin]
+[![Buy me a coffee](https://img.shields.io/badge/buy_me_a-coffee-FFDD00?style=shield&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/juanemiliomateo)
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/juanemiliomateo/juanemiliomateo/blob/master/README.es.md)
 
 [youtube]: https://www.youtube.com/@juanemiliomateo
