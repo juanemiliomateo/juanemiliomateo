@@ -16,7 +16,7 @@
   
   - 🌱 I’m currently developing my SecOps Skills.
   
-  - 💻 Programming and developing enthusiast, also a Cybersecurity Professional.
+  - 💻 Programming enthusiast, also a Cybersecurity Professional.
   
   - 😁 I have fun doing things I don't know how to do yet.
 
