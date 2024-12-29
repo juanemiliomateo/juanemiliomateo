@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+%F0%9F%91%8B+,;+I%27m+Juan+Mateo!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FFFFFF&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+%F0%9F%91%8B;+I%27m+Juan+Mateo!;" />
 </h1>
 
 <h3 align="center">A curious IT guy from Dominican Republic DO</h3>
