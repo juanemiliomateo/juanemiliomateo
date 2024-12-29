@@ -16,7 +16,7 @@
   
   - 🌱 Actualmente estoy desarrollando mis habilidadesd de SecOps.
   
-  - 💻 Entusiasta de la programación y el desarrollo, tambien soy profesional de Ciberseguridad.
+  - 💻 Entusiasta de la programación, tambien soy profesional de Ciberseguridad.
   
   - 😁 Me divierto haciendo cosas que aun no se hacer.
 
