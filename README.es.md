@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola!+%F0%9F%91%8B+,;+Soy+Juan+Mateo!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FFFFFF&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola!+%F0%9F%91%8B;+Soy+Juan+Mateo!;" />
 </h1>
 
 <h3 align="center">Un chico curioso de TI desde Republica Dominicana DO</h3>
