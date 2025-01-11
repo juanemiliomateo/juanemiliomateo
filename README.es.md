@@ -14,7 +14,7 @@
   
   - 🔭 Actualmente estoy trabajando en un **bot escaner de indicadores de amenazas**.
   
-  - 🌱 Actualmente estoy desarrollando mis habilidadesd de SecOps.
+  - 🌱 Actualmente estoy desarrollando mis habilidades de SecOps.
   
   - 💻 Entusiasta de la programación, tambien soy profesional de Ciberseguridad.
   
