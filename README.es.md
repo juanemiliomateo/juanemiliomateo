@@ -29,7 +29,6 @@
   
   [![Linkedin: juanemiliomateo](https://img.shields.io/badge/-juanemiliomateo-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/juanemiliomateo)
   [<img src="https://img.shields.io/youtube/channel/views/UCCHzyYPW5fJC61xxdzc5pxA" />](https://www.youtube.com/@juanemiliomateo)
-  [![Buy me a coffee](https://img.shields.io/badge/Comprame_un-cafe-FFDD00?style=shield&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/juanemiliomateo)
 </div>
 
 <hr/>
