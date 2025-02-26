@@ -29,7 +29,6 @@
   
   [![Linkedin: juanemiliomateo](https://img.shields.io/badge/-juanemiliomateo-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/juanemiliomateo)
   [<img src="https://img.shields.io/youtube/channel/views/UCCHzyYPW5fJC61xxdzc5pxA" />](https://www.youtube.com/@juanemiliomateo)
-  [![Buy me a coffee](https://img.shields.io/badge/buy_me_a-coffee-FFDD00?style=shield&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/juanemiliomateo)
 </div>
 
 <hr/>
@@ -67,3 +66,11 @@
   <br/>
   <img align="center" src="https://raw.githubusercontent.com/juanemiliomateo/juanemiliomateo/output/snake.svg" alt="Snake animation" />
 </div>
+
+
+<div align="center">
+  <h2 align="center">☕ Support Me</h2>
+  <br/>
+  <a href="https://www.buymeacoffee.com/juanemiliomateo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</div>
+
