@@ -10,7 +10,6 @@
 
 <div align="left">
   
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=juanemiliomateo.juanemiliomateo" /> [![es](https://img.shields.io/badge/lang-en-purple.svg)](https://github.com/juanemiliomateo/juanemiliomateo/blob/master/README.es.md)
   
   - 🔭 Actualmente estoy trabajando en un **bot escaner de indicadores de amenazas**.
   
@@ -25,10 +24,11 @@
 <br/>
 
 <div align="right">
-  <br>
+  <br><br>
   
-  [![Linkedin: juanemiliomateo](https://img.shields.io/badge/-juanemiliomateo-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/juanemiliomateo)
-  [<img src="https://img.shields.io/youtube/channel/views/UCCHzyYPW5fJC61xxdzc5pxA" />](https://www.youtube.com/@juanemiliomateo)
+[![en](https://img.shields.io/badge/lang-en-purple.svg)](https://github.com/juanemiliomateo/juanemiliomateo/blob/master/README.md)
+[<img src="https://img.shields.io/youtube/channel/views/UCCHzyYPW5fJC61xxdzc5pxA" />](https://www.youtube.com/@juanemiliomateo)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=juanemiliomateo.juanemiliomateo" />
 </div>
 
 <hr/>
