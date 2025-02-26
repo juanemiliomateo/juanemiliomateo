@@ -10,7 +10,7 @@
 
 <div align="left">
   
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=juanemiliomateo.juanemiliomateo" /> [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/juanemiliomateo/juanemiliomateo/blob/master/README.es.md)
+  
   
   - 🔭 I’m currently working on **Threat Indicator Scan Bot** .
   
@@ -25,10 +25,11 @@
 <br/>
 
 <div align="right">
-  <br>
-  
-  [![Linkedin: juanemiliomateo](https://img.shields.io/badge/-juanemiliomateo-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/juanemiliomateo)
-  [<img src="https://img.shields.io/youtube/channel/views/UCCHzyYPW5fJC61xxdzc5pxA" />](https://www.youtube.com/@juanemiliomateo)
+  <br><br>
+    
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/juanemiliomateo/juanemiliomateo/blob/master/README.es.md)
+[<img src="https://img.shields.io/youtube/channel/views/UCCHzyYPW5fJC61xxdzc5pxA" />](https://www.youtube.com/@juanemiliomateo)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=juanemiliomateo.juanemiliomateo" />
 </div>
 
 <hr/>
